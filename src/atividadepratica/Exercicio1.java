@@ -1,8 +1,8 @@
-package atividadePratica;
+package atividadepratica;
 
 import java.util.Scanner;
 
-public class salarioAbono  {
+public class Exercicio1  {
    
 	public static void main(String[] args) {
 
