@@ -2,7 +2,7 @@ package vetorCollection;
 
 import java.util.Scanner;
 
-public class Vetores {
+public class ArrayList {
 
 	public static void main(String[] args) {
 
